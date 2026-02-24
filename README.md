@@ -1,4 +1,4 @@
-# scoop-games [![Tests](https://github.com/Calinou/scoop-games/actions/workflows/ci.yml/badge.svg)](https://github.com/Calinou/scoop-games/actions/workflows/ci.yml) [![Excavator](https://github.com/Calinou/scoop-games/actions/workflows/excavator.yml/badge.svg)](https://github.com/Calinou/scoop-games/actions/workflows/excavator.yml) [![Repo size](https://img.shields.io/github/repo-size/Calinou/scoop-games.svg?style=flat-square)](https://github.com/Calinou/scoop-games) [![Mentioned in Awesome Scoop](https://awesome.re/mentioned-badge.svg)](https://github.com/ScoopInstaller/Awesome)
+# scoop-games [![Tests](https://github.com/Unity-Billal-mesloub/scoop-games/actions/workflows/ci.yml/badge.svg)](https://github.com/Unity-Billal-mesloub/scoop-games/actions/workflows/ci.yml) [![Excavator](https://github.com/Unity-Billal-mesloub/scoop-games/actions/workflows/excavator.yml/badge.svg)](https://github.com/Unity-Billal-mesloub/scoop-games/actions/workflows/excavator.yml) [![Repo size](https://img.shields.io/github/repo-size/Calinou/scoop-games.svg?style=flat-square)](https://github.com/Unity-Billal-mesloub/scoop-games) [![Mentioned in Awesome Scoop](https://awesome.re/mentioned-badge.svg)](https://github.com/Unity-Billal-mesloub/Awesome)
 
 A [Scoop](https://scoop.sh/) bucket for open source/freeware games and game-related tools.
 
@@ -18,7 +18,7 @@ scoop bucket add games
 
 Once this is done, you can install any app from this bucket (check the list
 of files in the
-[`bucket/` directory](https://github.com/Calinou/scoop-games/tree/master/bucket)).
+[`bucket/` directory](https://github.com/Unity-Billal-mesloub/scoop-games/tree/main/bucket)).
 For instance, use the following command:
 
 ```powershell
@@ -34,12 +34,10 @@ No need to open a pull request to update those manifests.
 
 For manifests that don't contain an `autoupdate` section, feel free to open a
 pull request to update them to the latest version. You can also
-[add an `autoupdate` section to the manifest](https://github.com/ScoopInstaller/Scoop/wiki/App-Manifest-Autoupdate)
+[add an `autoupdate` section to the manifest](https://github.com/Unity-Billal-mesloub/Scoop/wiki/App-Manifest-Autoupdate)
 to ensure the application always remains up-to-date in the future.
 
 ## License
-
-Copyright © 2018-2022 Hugo Locurcio and contributors
 
 Files in this repository are licensed under CC0 1.0 Universal,
 see [LICENSE.md](LICENSE.md) for more information.
